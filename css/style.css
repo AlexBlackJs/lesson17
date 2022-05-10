@@ -136,6 +136,10 @@ margin: 0px 0px 28px 0px;
 	margin: 0px 37px 0px 0px;
 }
 
+.menu__link:hover {
+	text-decoration: underline;
+}
+
 .menu__select {
 	font-family: 'Roboto';
 	font-weight: 700;
